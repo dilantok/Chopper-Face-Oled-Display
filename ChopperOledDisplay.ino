@@ -110,7 +110,7 @@ void setup() {
 void loop() {
   display.clearDisplay();
 
-  // eyes (left 50x40 and right 50x40) - animasyonlu
+  // eyes (left 50x40 and right 50x40)
   display.drawBitmap(10, 12, leftFrames[exprIdx], 50, 40, SH110X_WHITE);
   display.drawBitmap(68, 12, rightFrames[exprIdx], 50, 40, SH110X_WHITE);
 
@@ -119,9 +119,8 @@ void loop() {
 
   display.display();
 
-  // ifade değiştir
+  // change face
   exprIdx++;
   if (exprIdx >= exprCount) exprIdx = 0;
 
-  delay(500); // 0.5 saniyede bir değişsin
-}
+  delay(500); 
