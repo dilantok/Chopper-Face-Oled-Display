@@ -9,7 +9,7 @@ Hardware Used:
 -
 Elegoo ESP32 Development Board  
 1.3” SH1106 OLED Display (128x64, I2C)  
-Jumper wires  
+4 Jumper wires  
 Breadboard  
 
 Wiring:
