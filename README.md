@@ -7,33 +7,37 @@ This is part of my personal robotics development journey towards building an AI-
 
 Hardware Used:
 -
-Elegoo ESP32 Development Board,
-1.3” SH1106 OLED Display (128x64, I2C),
-Jumper wires,
-Breadboard
+Elegoo ESP32 Development Board  
+1.3” SH1106 OLED Display (128x64, I2C)  
+Jumper wires  
+Breadboard  
 
 Wiring:
 -
-VDD - 3.3V,
-GND - GND,
-SCK - D22,
-SDA - D21,
+VDD - 3.3V  
+GND - GND  
+SCK - D22  
+SDA - D21  
 
 Libraries:
 -
-Adafruit_GFX,
-Adafruit_SH110X,
-Wire (I2C)
+Adafruit_GFX  
+Adafruit_SH110X  
+Wire (I2C)  
 
 How I did it:
 -
-I used PixilArt to create the pixel art and animation. (@ddln - PixilArt account),
-This is the site I used to create BitMap with my pixel art - "https://javl.github.io/image2cpp/"
+I used PixilArt to create the pixel art and animation. (@ddln - PixilArt account)  
+This is the site I used to create BitMap with my pixel art - "https://javl.github.io/image2cpp/"  
 
 Future Improvements:
 -
-Add blinking animation,
-Add button interaction,
-Add buzzer for feedback,
-Add Pomodoro timer mode,
-Add AI emotion system,
+Add blinking animation  
+Add button interaction  
+Add buzzer for feedback  
+Add Pomodoro timer mode  
+Add AI emotion system  
+
+Overall Look:
+- ![chopperoled](https://github.com/user-attachments/assets/4b23b2e3-8bb5-47f9-b348-b4867dc9e012)
+
