@@ -27,7 +27,7 @@ Wire (I2C)
 
 How I did it:
 -
-I used PixilArt to create the pixel art and animation. - "https://www.pixilart.com/ddln" | My PixilArt account 
+I used PixilArt to create the pixel art and animation. - "https://www.pixilart.com/ddln" | My PixilArt account  
 This is the site I used to create BitMap with my pixel art - "https://javl.github.io/image2cpp/"  
 
 Future Improvements:
