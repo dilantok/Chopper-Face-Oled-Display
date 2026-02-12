@@ -39,5 +39,6 @@ Add Pomodoro timer mode
 Add AI emotion system  
 
 Overall Look:
-- ![chopperoled](https://github.com/user-attachments/assets/4b23b2e3-8bb5-47f9-b348-b4867dc9e012)
+-
+![chopperoled](https://github.com/user-attachments/assets/4b23b2e3-8bb5-47f9-b348-b4867dc9e012)
 
