@@ -114,7 +114,7 @@ void loop() {
   display.drawBitmap(10, 12, leftFrames[exprIdx], 50, 40, SH110X_WHITE);
   display.drawBitmap(68, 12, rightFrames[exprIdx], 50, 40, SH110X_WHITE);
 
-  // nose (16x16) - sabit
+  // nose (16x16)
   display.drawBitmap(56, 40, nose, 16, 16, SH110X_WHITE);
 
   display.display();
