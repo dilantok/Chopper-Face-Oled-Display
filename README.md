@@ -3,7 +3,7 @@
 This is a project I make to create a simple animated Chopper's (One Piece) face and displayed on a 1.3” SH1106 OLED screen using an ESP32.
 The robot shows different facial expressions (normal and happy) by switching between bitmap frames.
 
-This is part of my personal robotics development journey towards building an AI-based desktop robotic companion.
+This is part of my personal robotics development journey towards building an AI-based robotic companion.
 
 Hardware Used:
 -
