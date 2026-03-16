@@ -49,3 +49,4 @@ An HC-SR04 ultrasonic sensor detects the distance of an object.
 
 -Jumper wires
 ### Overall Look:
+![Chopper Demo](sensorchoppergif.gif)
