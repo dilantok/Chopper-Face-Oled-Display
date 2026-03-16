@@ -10,7 +10,7 @@ This project is part of my personal robotics development journey towards buildin
 A simple animated face displayed on the OLED screen using an ESP32.
 The animation switches between normal and happy expressions using bitmap frames.
 
-**Hardware Used
+## Hardware Used  
 
 - Elegoo ESP32 Development Board
 
@@ -37,7 +37,7 @@ An HC-SR04 ultrasonic sensor detects the distance of an object.
 - If something comes closer than 5 cm, the robot becomes happy.
 - If nothing is nearby, it returns to its normal face.
 
-### Hardware Used
+## Hardware Used  
 
 -Arduino UNO
 
